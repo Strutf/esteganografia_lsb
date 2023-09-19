@@ -49,7 +49,7 @@ def encode_message(image_path, message):
 
 # Exemplo de uso:
 image_path = 'imagem.png'
-message = 'te amo'
+message = 'Mensagem codificada'
 
 # Codificar a mensagem na imagem
 encoded_image_path = encode_message(image_path, message)
